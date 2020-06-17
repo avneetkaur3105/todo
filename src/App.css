@@ -1,0 +1,10 @@
+*{
+  margin:0;
+}
+.todo-list{
+  
+  display:flex;
+ flex-direction: column;
+ align-content: center;
+}
+
